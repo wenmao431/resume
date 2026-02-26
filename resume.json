@@ -1,0 +1,47 @@
+{
+  "name": "Hongquan Mao",
+  "position": "MS in Computer Science | Software Engineering Intern",
+  "contact": {
+    "phone": "(607)-595-8362",
+    "email": "hmao@Binghamton.edu",
+    "address": "Binghamton, NY"
+  },
+  "education": [
+    {
+      "school": "Binghamton University (SUNY)",
+      "degree": "Master of Science in Computer Science (GPA: 3.58/4.00)",
+      "date": "Expected May 2026"
+    },
+    {
+      "school": "Lanzhou University",
+      "degree": "Bachelor of Science in Electronic Information Science and Technology",
+      "date": "Sep 2020 - Jun 2024"
+    }
+  ],
+  "skills": [
+    { "label": "Languages", "value": "C, C++, Java, Python, SQL" },
+    { "label": "Systems", "value": "CPU Pipeline Simulation, Memory Management, Pthreads, Synchronization" },
+    { "label": "AI & Algos", "value": "Reinforcement Learning, Minimax/Expectimax, Alpha-Beta Pruning, DP" },
+    { "label": "Tools", "value": "ANTLR, AST, Visitor Pattern, SQL Optimization, DSP" }
+  ],
+  "experience": [
+    {
+      "title": "APEX Processor Simulator (C)",
+      "date": "Nov 2025 - Dec 2025",
+      "description": [
+        "Built a cycle-accurate 5-stage CPU pipeline simulator (Fetch/Decode/Execute/Memory/Writeback)",
+        "Implemented data forwarding, hazard detection, and pipeline stall logic to resolve RAW dependencies",
+        "Designed cycle-by-cycle debugging utilities to verify pipeline correctness and register state"
+      ]
+    },
+    {
+      "title": "Autonomous AI & Reinforcement Learning (Python)",
+      "date": "Apr 2025 - May 2025",
+      "description": [
+        "Designed intelligent game agents using Minimax/Expectimax with Alpha-Beta pruning to reduce complexity",
+        "Applied Q-Learning with linear function approximation to manage high-dimensional state spaces",
+        "Conducted policy convergence analysis and feature engineering to optimize agent performance"
+      ]
+    }
+  ]
+}
