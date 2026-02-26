@@ -1,0 +1,47 @@
+{
+  "name": "毛泓权",
+  "position": "计算机科学硕士 | 软件工程实习生",
+  "contact": {
+    "phone": "(607)-595-8362",
+    "email": "hmao@Binghamton.edu",
+    "address": "纽约州，宾汉姆顿"
+  },
+  "education": [
+    {
+      "school": "宾汉姆顿大学 (Binghamton University)",
+      "degree": "计算机科学 硕士 (GPA: 3.58/4.00)",
+      "date": "2024.09 - 2026.05 (预计)"
+    },
+    {
+      "school": "兰州大学",
+      "degree": "电子信息科学与技术 学士",
+      "date": "2020.09 - 2024.06"
+    }
+  ],
+  "skills": [
+    { "label": "编程语言", "value": "C, C++, Java, Python, SQL" },
+    { "label": "系统开发", "value": "CPU流水线模拟, 内存管理, Pthreads多线程, 并发同步" },
+    { "label": "AI与算法", "value": "强化学习(RL), Minimax/Expectimax, Alpha-Beta剪枝, 动态规划" },
+    { "label": "工具", "value": "ANTLR, AST, Visitor模式, SQL优化, DSP" }
+  ],
+  "experience": [
+    {
+      "title": "APEX 处理器模拟器 (C语言)",
+      "date": "2025.11 - 2025.12",
+      "description": [
+        "开发了周期精确的 5 级 CPU 流水线模拟器，实现取指、译码、执行、访存及写回阶段",
+        "实现了数据前推、冒险检测及流水线停顿逻辑，解决 RAW 相关性引发的冲突",
+        "设计逐周期调试工具，通过追踪寄存器堆和内存状态验证执行正确性"
+      ]
+    },
+    {
+      "title": "自主 AI 与强化学习项目 (Python)",
+      "date": "2025.04 - 2025.05",
+      "description": [
+        "基于 Minimax/Expectimax 算法开发对抗性智能体，引入 Alpha-Beta 剪枝优化搜索效率",
+        "应用线性函数近似的 Q-Learning 算法处理高维状态空间的决策问题",
+        "通过特征工程和策略收敛性分析，显著提升了智能体在复杂环境下的学习稳定性"
+      ]
+    }
+  ]
+}
